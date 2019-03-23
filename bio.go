@@ -14,6 +14,7 @@
 
 package openssl
 
+// import C
 import "C"
 
 import (
