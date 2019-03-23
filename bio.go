@@ -14,7 +14,7 @@
 
 package openssl
 
-// import C
+// #include "shim.h"
 import "C"
 
 import (
